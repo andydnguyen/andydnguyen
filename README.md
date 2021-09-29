@@ -23,8 +23,12 @@ My name is Andy Nguyen! I'm a software developer currently working at Breezy HR.
 
 ## &#x1f4c8; Github Stats
 
-<a href="https://github.com/andydnguyen/andydnguyen"><img alt="Andy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=andydnguyen&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-<a href="https://github.com/andydnguyen/andydnguyen"><img alt="Andy's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andydnguyen&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/andydnguyen/andydnguyen">
+    <img alt="Andy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=andydnguyen&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+</a>
+<a href="https://github.com/andydnguyen/andydnguyen">
+    <img alt="Andy's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andydnguyen&langs_count=3&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+</a>
 
 <br/>
 <a href="https://github.com/andydnguyen/andydnguyen"><img alt="Andy Nguyen's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=andydnguyen&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
