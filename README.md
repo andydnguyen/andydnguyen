@@ -1,16 +1,37 @@
-### Hi there 👋
+# Hello, welcome to my Github! <img src="https://raw.githubusercontent.com/andydnguyen/andydnguyen/master/wave.gif" width="30px">
 
-<!--
-**andydnguyen/andydnguyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Andy Nguyen and I'm a software developer working at Breezy HR.
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+<img src="https://img.icons8.com/color/240/000000/html-5--v1.png" height="60" width="60"/>
+<img src="https://img.icons8.com/color/240/000000/css3.png" height="60" width="60"/>
+<img src="https://img.icons8.com/color/240/000000/javascript.png" height="60" width="60"/>
+<img src="https://cdn.iconscout.com/icon/free/png-512/node-js-1174925.png" height="60" width="60"/>
+<img src="https://img.icons8.com/color/240/000000/python.png" height="60" width="60"/>
+<img src="https://img.icons8.com/color/240/000000/angularjs.png" height="60" width="60"/>
+<img src="https://img.icons8.com/color/240/000000/mysql-logo.png" height="60" width="60"/>
+</div>
+
+<br/>
+
+<p align="center">
+    <a href="https://github.com/andydnguyen/github-readme-streak-stats">
+        <img title="streak stats" alt="Andy Nguyen's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=andydnguyen&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
+
+## 📊 My Github Stats
+
+  <a href="https://github.com/andydnguyen/github-readme-stats"><img alt="Andy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=andydnguyen&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width="40%"/></a>
+  <a href="https://github.com/andydnguyen/github-readme-stats"><img alt="Andy's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andydnguyen&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" width="40%" /></a>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+<br/>
+<a href="https://github.com/andydnguyen/github-readme-activity-graph"><img alt="Andy Nguyen's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=andydnguyen&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+<br/>
+
+### Show some ❤️ by starring ⭐ some of the repositories!
