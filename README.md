@@ -8,9 +8,10 @@ My name is Andy Nguyen and I'm a software developer currently working at Breezy 
 <img src="https://img.icons8.com/color/240/000000/html-5--v1.png" height="60" width="60"/>
 <img src="https://img.icons8.com/color/240/000000/css3.png" height="60" width="60"/>
 <img src="https://img.icons8.com/color/240/000000/javascript.png" height="60" width="60"/>
-<img src="https://cdn.iconscout.com/icon/free/png-512/node-js-1174925.png" height="60" width="60"/>
+<img src="https://img.icons8.com/color/240/000000/nodejs.png" height="60" width="60"/>
 <img src="https://img.icons8.com/color/240/000000/python.png" height="60" width="60"/>
 <img src="https://img.icons8.com/color/240/000000/angularjs.png" height="60" width="60"/>
+<img src="https://img.icons8.com/color/250/000000/mongodb.png" height="60" width="60"/>
 <img src="https://img.icons8.com/color/240/000000/mysql-logo.png" height="60" width="60"/>
 </div>
 
