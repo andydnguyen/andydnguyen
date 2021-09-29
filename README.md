@@ -1,6 +1,6 @@
 # Welcome to my Github! <img src="https://raw.githubusercontent.com/andydnguyen/andydnguyen/master/wave.gif" width="30px">
 
-My name is Andy Nguyen and I'm a software developer currently working at Breezy HR.
+My name is Andy Nguyen! I'm a software developer currently working at Breezy HR.
 
 ## 🔧 Technologies & Tools
 
