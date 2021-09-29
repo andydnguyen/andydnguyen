@@ -19,18 +19,18 @@ My name is Andy Nguyen! I'm a software developer currently working at Breezy HR.
 <br/>
 
 <p align="center">
-    <a href="https://github.com/andydnguyen/github-readme-streak-stats">
+    <a href="https://github.com/andydnguyen/andydnguyen">
         <img title="streak stats" alt="Andy Nguyen's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=andydnguyen&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
 ## 📊 My Github Stats
 
-  <a href="https://github.com/andydnguyen/github-readme-stats"><img alt="Andy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=andydnguyen&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width="40%"/></a>
-  <a href="https://github.com/andydnguyen/github-readme-stats"><img alt="Andy's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andydnguyen&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" width="40%" /></a>
+  <a href="https://github.com/andydnguyen/andydnguyen"><img alt="Andy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=andydnguyen&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width="40%"/></a>
+  <a href="https://github.com/andydnguyen/andydnguyen"><img alt="Andy's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andydnguyen&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" width="40%" /></a>
 
 <br/>
-<a href="https://github.com/andydnguyen/github-readme-activity-graph"><img alt="Andy Nguyen's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=andydnguyen&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/andydnguyen/andydnguyen"><img alt="Andy Nguyen's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=andydnguyen&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 
