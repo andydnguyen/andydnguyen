@@ -11,6 +11,7 @@ My name is Andy Nguyen! I'm a software developer currently working at Breezy HR.
 <img src="https://img.icons8.com/color/240/000000/nodejs.png" height="60" width="60"/>
 <img src="https://img.icons8.com/color/240/000000/python.png" height="60" width="60"/>
 <img src="https://img.icons8.com/color/240/000000/angularjs.png" height="60" width="60"/>
+<img src="https://img.icons8.com/office/240/000000/react.png" height="60" width="60" />
 <img src="https://img.icons8.com/color/240/000000/vue-js.png" height="60" width="60"/>
 <img src="https://img.icons8.com/color/250/000000/mongodb.png" height="60" width="60"/>
 <img src="https://img.icons8.com/color/240/000000/mysql-logo.png" height="60" width="60"/>
